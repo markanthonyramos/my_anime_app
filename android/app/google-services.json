@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682693008988",
+    "project_id": "flutterfire-fe68b",
+    "storage_bucket": "flutterfire-fe68b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682693008988:android:caff196d5b71d862b61099",
+        "android_client_info": {
+          "package_name": "com.example.my_anime_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682693008988-ua6g9q79osarmaafb2cbjskesivv35lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8m5mLjFhXiwjFJ3F87677q2wwsXDMSIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682693008988-ua6g9q79osarmaafb2cbjskesivv35lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
